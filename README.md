@@ -68,6 +68,3 @@ This report contains **five tabs**, each serving a specific purpose:
 - **Standard Class shipping** is the most frequently used mode.
 - Certain sub-categories like **Copiers** and **Phones** generate significantly higher sales.
 - Sales peak during **November and December**, suggesting strong seasonal trends.
-
-If you have questions or feedback about this project:  
-**Monika Chilwal** – [LinkedIn](https://www.linkedin.com/in/monika-chilwal) | monikachilwal2@gmail.com
